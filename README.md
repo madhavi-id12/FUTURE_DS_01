@@ -1,1 +1,1 @@
-# FUTURE_DS_01
+This project analyzes customer reviews from an e-commerce platform specializing in women's clothing. Using Natural Language Processing (NLP) and Sentiment Analysis, reviews are classified as Positive, Negative, or Neutral to understand customer satisfaction trends.
